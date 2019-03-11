@@ -1,0 +1,39 @@
+    1  cd Documents
+    2  git clone https://github.com/IIC2115/Syllabus
+    3  cd
+    4  ls
+    5  cd Documents
+    6  cd Syllabus
+    7  cd Laboratorio 0
+    8  cd L0
+    9  cd Syllabus
+   10  cd ~/Documents/Syllabus
+   11  ls
+   12  git add *
+   13  git commit -m "se sube el lab0"
+   14  git pull
+   15  git init
+   16  git init Laboratoio0
+   17  cd  ~/Documents
+   18  git clone https://github.com/VedranRazmilic/Laboratorio-0.git
+   19  cd Laboratorio 0
+   20  cd Laboratorio-0
+   21  cd ~/Desktop
+   22  cd Cosas-de-cursos-actuales
+   23  ls
+   24  cd Cosas de cursos actuales
+   25  cd 'Cosas de cursos actuales'
+   26  cd 'Programación como Herramienta para Ingenieros'
+   27  cd Laboratorio-0
+   28  git add *
+   29  git config
+   30  git config --global user.name "VedranRazmilic"
+   31  git config --global user.email vjrazmilic@uc.cl
+   32  git commit -m "Subiendo archivo de texto"
+   33  git push
+   34  git pull
+   35  doskey/History
+   36  git doskey/History
+   37  git doskey
+   38  git History
+   39  history
